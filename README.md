@@ -10,3 +10,4 @@
 8. Use geo
 9. a. http://arxiv.org/pdf/1602.05314.pdf
 10. b. http://cs.uky.edu/~jacobs/papers/islam2014faces.pdf
+11. c. http://graphics.cs.cmu.edu/projects/im2gps/
