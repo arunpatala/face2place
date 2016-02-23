@@ -11,3 +11,7 @@
 9. a. http://arxiv.org/pdf/1602.05314.pdf
 10. b. http://cs.uky.edu/~jacobs/papers/islam2014faces.pdf
 11. c. http://graphics.cs.cmu.edu/projects/im2gps/
+12. Age regressor 
+13. a. image to age
+14. b. older image of current image
+15. Siblings and parents image
